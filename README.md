@@ -19,3 +19,4 @@
 | [**VIEMF: Multimodal metaphor detection via visual information enhancement with multimodal fusion**](https://doi.org/10.1016/j.ipm.2024.103652) | Information Processing & Management | May 2024 | - |
 | [**SC-Net: Multimodal metaphor detection using semantic conflicts**](https://doi.org/10.1016/j.neucom.2024.127825) | Neurocomputing | 14 August 2024 | - |
 | ![Star](https://img.shields.io/github/stars/TIAN-viola/ImaRA.svg?style=social&label=Star) <br> [**ImaRA: An Imaginative Frame Augmented Method for Low-Resource Multimodal Metaphor Detection and Explanation**](https://aclanthology.org/2025.findings-naacl.220/) <br> | NAACL 2025 Findings | 2024 | [Github](https://github.com/TIAN-viola/ImaRA) |
+| [**iAMeta: Advancing multimodal metaphor detection using MLLMs and information debiasing**](https://doi.org/10.1016/j.inffus.2025.103348) | Information Fusion | December 2025 | - |
