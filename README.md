@@ -16,5 +16,5 @@
 |  Title  |   Conference / Journal  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
 | ![Star](https://img.shields.io/github/stars/xyz189411yt/C4MMD.svg?style=social&label=Star) <br> [**C4MMD: Exploring Chain-of-Thought for Multi-modal Metaphor Detection**](https://aclanthology.org/2024.acl-long.6/) <br> | ACL 2024 Main Conference | 2024 | [Github](https://github.com/xyz189411yt/C4MMD) |
-| [**VIEMF: Multimodal metaphor detection via visual information enhancement with multimodal fusion**](https://doi.org/10.1016/j.ipm.2024.103652) | Information Processing & Management | 2024 | - |
-
+| [**VIEMF: Multimodal metaphor detection via visual information enhancement with multimodal fusion**](https://doi.org/10.1016/j.ipm.2024.103652) | Information Processing & Management | May 2024 | - |
+| [**SC-Net: Multimodal metaphor detection using semantic conflicts**](https://doi.org/10.1016/j.neucom.2024.127825) | Neurocomputing | 14 August 2024 | - |
