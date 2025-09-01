@@ -1,7 +1,7 @@
 # Awesome Multimodal metaphor detection
 
 ## Dataset
-|  Title  |   Conference/Journal  |   Date   |   Code   |
+|  Title  |   Conference / Journal  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
 | ![Star](https://img.shields.io/github/stars/DUTIR-YSQ/MultiMET.svg?style=social&label=Star) <br> [**MultiMET: A Multimodal Dataset for Metaphor Understanding**](https://aclanthology.org/2021.acl-long.249/) <br> | ACL 2021 Main Conference | 2021 | [Github](https://github.com/DUTIR-YSQ/MultiMET) |
 | ![Star](https://img.shields.io/github/stars/liaolianfoka/MET-Meme-A-Multi-modal-Meme-Dataset-Rich-in-Metaphors.svg?style=social&label=Star) <br> [**MET-Meme: A Multimodal Meme Dataset Rich in Metaphors**](https://dl.acm.org/doi/10.1145/3477495.3532019) <br> | SIGIR 2022 | 2022 | [Github](https://github.com/liaolianfoka/MET-Meme-A-Multi-modal-Meme-Dataset-Rich-in-Metaphors) |
@@ -13,7 +13,7 @@
 
 
 ## Model
-|  Title  |   Venue  |   Date   |   Code   |
+|  Title  |   Conference / Journal  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
 | ![Star](https://img.shields.io/github/stars/xyz189411yt/C4MMD.svg?style=social&label=Star) <br> [**C4MMD: Exploring Chain-of-Thought for Multi-modal Metaphor Detection**](https://aclanthology.org/2024.acl-long.6/) <br> | ACL 2024 Main Conference | 2024 | [Github](https://github.com/xyz189411yt/C4MMD) |
 | [**VIEMF: Multimodal metaphor detection via visual information enhancement with multimodal fusion**](https://doi.org/10.1016/j.ipm.2024.103652) | Information Processing & Management | 2024 | - |
