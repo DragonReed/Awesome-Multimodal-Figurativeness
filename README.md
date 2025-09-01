@@ -10,12 +10,11 @@
 | ![Star](https://img.shields.io/github/stars/DUTIR-YSQ/MultiMM.svg?style=social&label=Star) <br> [**Cultural Bias Matters: A Cross-Cultural Benchmark Dataset and Sentiment-Enriched Model for Understanding Multimodal Metaphors**](https://aclanthology.org/2025.acl-long.1275/) <br> | ACL 2025 Main Conference | 2025 | [Github](https://github.com/DUTIR-YSQ/MultiMM) |
 | ![Star](https://img.shields.io/github/stars/DUTIR-YSQ/EmoMeta.svg?style=social&label=Star) <br> [**EmoMeta: A Chinese Multimodal Metaphor Dataset and Novel Method for Emotion Classification**](https://dl.acm.org/doi/abs/10.1145/3701716.3735080) <br> | WWW 2025 Companion Proceedings | 2025 | [Github](https://github.com/DUTIR-YSQ/EmoMeta) |
 
-| ![Star](https://img.shields.io/github/stars/.svg?style=social&label=Star) <br> [****]() <br> |  |  | [Github]() |
-
-
 
 
 ## Model
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
 | ![Star](https://img.shields.io/github/stars/xyz189411yt/C4MMD.svg?style=social&label=Star) <br> [**C4MMD: Exploring Chain-of-Thought for Multi-modal Metaphor Detection**](https://aclanthology.org/2024.acl-long.6/) <br> | ACL 2024 Main Conference | 2024 | [Github](https://github.com/xyz189411yt/C4MMD) |
+| [**VIEMF: Multimodal metaphor detection via visual information enhancement with multimodal fusion**](https://doi.org/10.1016/j.ipm.2024.103652) | Information Processing & Management | 2024 | - |
+
