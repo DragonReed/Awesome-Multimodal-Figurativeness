@@ -31,3 +31,6 @@
 | 合肥工业大学 <br> Hefei University of Technology | ![Star](https://img.shields.io/github/stars/Qianvenh/CDGLT.svg?style=social&label=Star) <br> [**Concept Drift Guided LayerNorm Tuning for Efficient Multimodal Metaphor Identification**](https://dl.acm.org/doi/abs/10.1145/3731715.3733296) | ICMR 2025 | 2025 | [Github](https://github.com/Qianvenh/CDGLT) |
 | 武汉大学 <br> Wuhan University | [**Multi-Granular Multimodal Clue Fusion for Meme Understanding**](https://ojs.aaai.org/index.php/AAAI/article/view/34801) | AAAI 2025 | 2025 | - |
 | 大连理工大学 <br> Dalian University of Technology | [**M2Metaphor: leveraging multi-modal fusion and hierarchical contrastive learning for metaphoric insights**](https://doi.org/10.1016/j.eswa.2025.129107) | Expert Systems with Applications | 15 January 2026 | - |
+
+## Implicit Semantic Model
+| 天津大学 <br> Tianjin University | [**Few-Shot In-Context Learning for Implicit Semantic Multimodal Content Detection and Interpretation**](https://ieeexplore.ieee.org/abstract/document/10925399/) | IEEE Transactions on Circuits and Systems for Video Technology | 07 March 2025 | - |
