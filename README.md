@@ -33,4 +33,6 @@
 | 大连理工大学 <br> Dalian University of Technology | [**M2Metaphor: leveraging multi-modal fusion and hierarchical contrastive learning for metaphoric insights**](https://doi.org/10.1016/j.eswa.2025.129107) | Expert Systems with Applications | 15 January 2026 | - |
 
 ## Implicit Semantic Model
+|  Research Group  |  Title  |   Conference / Journal  |   Date   |   Code   |
+|:--------|:--------:|:--------:|:--------:|:--------:|
 | 天津大学 <br> Tianjin University | [**Few-Shot In-Context Learning for Implicit Semantic Multimodal Content Detection and Interpretation**](https://ieeexplore.ieee.org/abstract/document/10925399/) | IEEE Transactions on Circuits and Systems for Video Technology | 07 March 2025 | - |
