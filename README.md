@@ -41,3 +41,12 @@
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | 哈尔滨工业大学（深圳） <br> Harbin Institute of Technology, Shenzhen | ![Star](https://img.shields.io/github/stars/Vincy2King/M3F-MEME.svg?style=social&label=Star) <br> [**What do they “meme”? A metaphor-aware multi-modal multi-task framework for fine-grained meme understanding**](https://www.sciencedirect.com/science/article/pii/S095070512400412X) | Knowledge-Based Systems |  21 June 2024 | [Github](https://github.com/Vincy2King/M3F-MEME) |
 | 天津大学 <br> Tianjin University | [**Few-Shot In-Context Learning for Implicit Semantic Multimodal Content Detection and Interpretation**](https://ieeexplore.ieee.org/abstract/document/10925399/) | IEEE Transactions on Circuits and Systems for Video Technology | 07 March 2025 | - |
+
+
+# Awesome Multimodal hyperbole detection
+
+## Dataset
+
+|  Research Group  |  Title  |   Conference / Journal  |   Date   |   Code   |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+| 北京大学 <br> Peking University | ![Star](https://img.shields.io/github/stars/lleozhang/Multimodal_Hyperbole.svg?style=social&label=Star) <br> [**Image Matters: A New Dataset and Empirical Study for Multimodal Hyperbole Detection**](https://aclanthology.org/2024.lrec-main.759/) <br> | LREC-COLING 2024 | 2024 | [Github](https://github.com/lleozhang/Multimodal_Hyperbole) |
