@@ -50,3 +50,12 @@
 |  Research Group  |  Title  |   Conference / Journal  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | 北京大学 <br> Peking University | ![Star](https://img.shields.io/github/stars/lleozhang/Multimodal_Hyperbole.svg?style=social&label=Star) <br> [**Image Matters: A New Dataset and Empirical Study for Multimodal Hyperbole Detection**](https://aclanthology.org/2024.lrec-main.759/) <br> | LREC-COLING 2024 | 2024 | [Github](https://github.com/lleozhang/Multimodal_Hyperbole) |
+
+
+# Multimodal humor
+
+## Dataset
+
+|  Research Group  |  Title  |   Conference / Journal  |   Date   |   Code   |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+| 大连理工大学 <br> Dalian University of Technology | ![Star](https://img.shields.io/github/stars/zzyjerry/HumorWB.svg?style=social&label=Star) <br> [**Leveraging Social Context for Humor Recognition and Sense of Humor Evaluation in Social Media with a New Chinese Humor Corpus - HumorWB**](https://aclanthology.org/2024.lrec-main.908/) <br> | LREC-COLING 2024 | 2024 | [Github](https://github.com/zzyjerry/HumorWB) |
