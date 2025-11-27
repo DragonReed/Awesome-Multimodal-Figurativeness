@@ -1,4 +1,4 @@
-# Awesome Multimodal metaphor detection
+# Multimodal metaphor
 
 ## Dataset
 
@@ -43,7 +43,7 @@
 | 天津大学 <br> Tianjin University | [**Few-Shot In-Context Learning for Implicit Semantic Multimodal Content Detection and Interpretation**](https://ieeexplore.ieee.org/abstract/document/10925399/) | IEEE Transactions on Circuits and Systems for Video Technology | 07 March 2025 | - |
 
 
-# Awesome Multimodal hyperbole detection
+# Multimodal hyperbole
 
 ## Dataset
 
