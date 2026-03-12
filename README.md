@@ -37,6 +37,7 @@
 | 中国科学院新疆理化技术研究所 <br> Xinjiang Technical Institute of Physics and Chemistry, Chinese Academy of Sciences <br> 中国科学院大学 <br> University of Chinese Academy of Sciences | [**ISIPN: Intention-Semantic Incongruity Perception Network for Multimodal Metaphor Detection**](https://link.springer.com/chapter/10.1007/978-981-95-3349-7_42) | NLPCC 2025 | 16 November 2025 | - |
 | 新疆大学 <br> Xinjiang University | [**MetaCRN: Language-Augmented Multimodal Metaphor Detection Using Cross-Modal Dynamic Replacement**](https://link.springer.com/chapter/10.1007/978-981-95-4445-5_11) | ICONIP 2025 | 12 January 2026 | - |
 | 大连理工大学 <br> Dalian University of Technology | [**M2Metaphor: leveraging multi-modal fusion and hierarchical contrastive learning for metaphoric insights**](https://doi.org/10.1016/j.eswa.2025.129107) | Expert Systems with Applications | 15 January 2026 | - |
+| 大连理工大学 <br> Dalian University of Technology | [**Multimodal metaphor understanding and generation in MLLMs: A dataset and reasoning framework**](https://www.sciencedirect.com/science/article/pii/S0031320326003341) | Pattern Recognition | October 2026 | [Github](https://github.com/DUTIR-YSQ/MultiMETu) |
 
 ## Implicit Semantic Model
 |  Research Group  |  Title  |   Conference / Journal  |   Date   |   Code   |
