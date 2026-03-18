@@ -51,6 +51,7 @@
 |  Research Group  |  Title  |   Conference / Journal  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | 北京邮电大学 <br> Beijing University of Posts and Telecommunications | ![Star](https://img.shields.io/github/stars/PotatoDog1669/KID.svg?style=social&label=Star) <br> [**KID: Knowledge-Injected Dual-Head Learning for Knowledge-Grounded Harmful Meme Detection**](https://arxiv.org/abs/2601.21796) | - |  2026 | [Github](https://github.com/PotatoDog1669/KID) |
+| 电子科技大学 <br> University of Electronic Science and Technology of China | ![Star](https://img.shields.io/github/stars/Jian-Lang/ALARM.svg?style=social&label=Star) <br> [**From Shallow Humor to Metaphor: Towards Label-Free Harmful Meme Detection via LMM Agent Self-Improvement**](https://arxiv.org/abs/2512.21598) | KDD 2026 |  2026 | [Github](https://github.com/Jian-Lang/ALARM) |
 
 
 # Multimodal hyperbole
