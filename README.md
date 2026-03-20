@@ -45,14 +45,19 @@
 ## Implicit Semantic Model
 |  Research Group  |  Title  |   Conference / Journal  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| 哈尔滨工业大学（深圳） <br> Harbin Institute of Technology, Shenzhen | ![Star](https://img.shields.io/github/stars/Vincy2King/M3F-MEME.svg?style=social&label=Star) <br> [**What do they “meme”? A metaphor-aware multi-modal multi-task framework for fine-grained meme understanding**](https://www.sciencedirect.com/science/article/pii/S095070512400412X) | Knowledge-Based Systems |  21 June 2024 | [Github](https://github.com/Vincy2King/M3F-MEME) |
+| 哈尔滨工业大学（深圳） <br> Harbin Institute of Technology, Shenzhen | ![Star](https://img.shields.io/github/stars/Vincy2King/M3F-MEME.svg?style=social&label=Star) <br> [**What do they “meme”? A metaphor-aware multi-modal multi-task framework for fine-grained meme understanding**](https://www.sciencedirect.com/science/article/pii/S095070512400412X) | Knowledge-Based Systems | 21 June 2024 | [Github](https://github.com/Vincy2King/M3F-MEME) |
 | 天津大学 <br> Tianjin University | [**Few-Shot In-Context Learning for Implicit Semantic Multimodal Content Detection and Interpretation**](https://ieeexplore.ieee.org/abstract/document/10925399/) | IEEE Transactions on Circuits and Systems for Video Technology | 07 March 2025 | - |
 
 ## Harmful Model
 |  Research Group  |  Title  |   Conference / Journal  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| 北京邮电大学 <br> Beijing University of Posts and Telecommunications | ![Star](https://img.shields.io/github/stars/PotatoDog1669/KID.svg?style=social&label=Star) <br> [**KID: Knowledge-Injected Dual-Head Learning for Knowledge-Grounded Harmful Meme Detection**](https://arxiv.org/abs/2601.21796) | - |  2026 | [Github](https://github.com/PotatoDog1669/KID) |
-| 电子科技大学 <br> University of Electronic Science and Technology of China | ![Star](https://img.shields.io/github/stars/Jian-Lang/ALARM.svg?style=social&label=Star) <br> [**From Shallow Humor to Metaphor: Towards Label-Free Harmful Meme Detection via LMM Agent Self-Improvement**](https://arxiv.org/abs/2512.21598) | KDD 2026 |  2026 | [Github](https://github.com/Jian-Lang/ALARM) |
+| 北京邮电大学 <br> Beijing University of Posts and Telecommunications | ![Star](https://img.shields.io/github/stars/PotatoDog1669/KID.svg?style=social&label=Star) <br> [**KID: Knowledge-Injected Dual-Head Learning for Knowledge-Grounded Harmful Meme Detection**](https://arxiv.org/abs/2601.21796) | - | 2026 | [Github](https://github.com/PotatoDog1669/KID) |
+| 电子科技大学 <br> University of Electronic Science and Technology of China | ![Star](https://img.shields.io/github/stars/Jian-Lang/ALARM.svg?style=social&label=Star) <br> [**From Shallow Humor to Metaphor: Towards Label-Free Harmful Meme Detection via LMM Agent Self-Improvement**](https://arxiv.org/abs/2512.21598) | KDD 2026 | 2026 | [Github](https://github.com/Jian-Lang/ALARM) |
+
+# Multimodal samcasm
+|  Research Group  |  Title  |   Conference / Journal  |   Date   |   Code   |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+| 东华大学 <br> Donghua University | ![Star](https://img.shields.io/github/stars/loliVessalius/SARCASM.svg?style=social&label=Star) <br> [**SARCASM: Sarcastic attribute representation with conflict alignment and semantic modeling**](https://www.sciencedirect.com/science/article/pii/S0950705126004508) | Knowledge-Based Systems | 12 May 2026 | [Github](https://github.com/loliVessalius/SARCASM) |
 
 
 # Multimodal hyperbole
