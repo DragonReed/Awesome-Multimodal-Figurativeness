@@ -40,7 +40,7 @@
 | 新疆大学 <br> Xinjiang University | [**MetaCRN: Language-Augmented Multimodal Metaphor Detection Using Cross-Modal Dynamic Replacement**](https://link.springer.com/chapter/10.1007/978-981-95-4445-5_11) | ICONIP 2025 | 12 January 2026 | - |
 | 大连理工大学 <br> Dalian University of Technology | [**M2Metaphor: leveraging multi-modal fusion and hierarchical contrastive learning for metaphoric insights**](https://doi.org/10.1016/j.eswa.2025.129107) | Expert Systems with Applications | 15 January 2026 | - |
 | 明尼苏达大学 <br> University of Minnesota | ![Star](https://img.shields.io/github/stars/scheshmi/CrossStyle-MMR.svg?style=social&label=Star) <br> [**Reasoning Beyond Literal: Cross-style Multimodal Reasoning for Figurative Language Understanding**](https://arxiv.org/pdf/2601.17197) | - | 2026 | [Github](https://github.com/scheshmi/CrossStyle-MMR) |
-
+| 北京化工大学 <br> Beijing University of Chemical Technology | [**MAMMD: A multi-agent collaboration framework for multimodal metaphor detection**](https://www.sciencedirect.com/science/article/pii/S0925231226007782) | Neurocomputing | 7 June 2026 | - |
 
 ## Implicit Semantic Model
 |  Research Group  |  Title  |   Conference / Journal  |   Date   |   Code   |
