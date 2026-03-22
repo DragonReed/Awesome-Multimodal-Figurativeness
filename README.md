@@ -16,7 +16,7 @@
 | 厦门大学 <br> Xiamen University | ![Star](https://img.shields.io/github/stars/wxy-wxy916/MetaVis4D.svg?style=social&label=Star) <br> [**Can multimodal large language models understand visual metaphors? An evaluation of MLLM’s multi-perspective understanding capabilities for visual metaphors**](https://doi.org/10.1016/j.eswa.2025.130672) <br> | Expert Systems with Applications | 25 March 2026 | [Github](https://github.com/wxy-wxy916/MetaVis4D) |
 | 大连理工大学 <br> Dalian University of Technology | ![Star](https://img.shields.io/github/stars/DUTIR-YSQ/MultiMETu.svg?style=social&label=Star) <br> [**Multimodal metaphor understanding and generation in MLLMs: A dataset and reasoning framework**](https://www.sciencedirect.com/science/article/pii/S0031320326003341) | Pattern Recognition | October 2026 | [Github](https://github.com/DUTIR-YSQ/MultiMETu) |
 | 中国科学院新疆理化技术研究所 <br> Xinjiang Technical Institute of Physics and Chemistry, Chinese Academy of Sciences <br> 中国科学院大学 <br> University of Chinese Academy of Sciences | ![Star](https://img.shields.io/github/stars/DragonReed/M3UCD.svg?style=social&label=Star) <br> [**M3UCD: A Multi-task Multimodal Metaphor Understanding Challenge Dataset for LLMs**](https://ojs.aaai.org/index.php/AAAI/article/view/40808) | AAAI 2026 | 14 March 2026 | [Github](https://github.com/DragonReed/M3UCD) |
-
+| 大连理工大学 <br> Dalian University of Technology | [**Towards Multimodal Metaphor Understanding: A Chinese Dataset and Model for Metaphor Mapping Identification**](https://dl.acm.org/doi/10.1145/3773989) | ACM Transactions on Asian and Low-Resource Language Information Processing | 10 December 2025 | [GitFront](https://gitfront.io/r/water/bsyhMJA64Lkh/CM3D/) |
 
 
 ## Model
