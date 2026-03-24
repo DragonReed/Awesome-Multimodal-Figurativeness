@@ -20,6 +20,7 @@
 | 广西大学 <br> Guangxi University | ![Star](https://img.shields.io/github/stars/VILAN-Lab/Metaphor-CIME.svg?style=social&label=Star) <br> [**Multi-modal Metaphor Explanation: A Dataset and Benchmark**](https://link.springer.com/chapter/10.1007/978-981-95-5761-5_40) | PRCV 2025 | 12 January 2026 | [Github](https://github.com/VILAN-Lab/Metaphor-CIME) |
 | 广西大学 <br> Guangxi University | [**Revealing the Logic Behind the Black Box: A Benchmark Dataset for Explainable Multimodal Metaphor Detection**](https://ieeexplore.ieee.org/document/11424999) | IEEE Transactions on Multimedia | 2026 | [Github](https://github.com/VILAN-Lab/EMMet) |
 | 广西大学 <br> Guangxi University | ![Star](https://img.shields.io/github/stars/VILAN-Lab/METAVQA.svg?style=social&label=Star) <br> [**Metaphorical Visual Question Answering: Benchmark and Knowledge-Enhanced Metaphor Understanding Method**](https://ieeexplore.ieee.org/document/11398850) | IEEE Transactions on Multimedia | 2026 | [Github](https://github.com/VILAN-Lab/METAVQA) |
+| 大连理工大学 <br> Dalian University of Technology | [**MetaGPT: A Large Vision-Language Model for Meme Metaphor Understanding**](https://aclanthology.org/2025.acl-long.1275/) <br> | AAAI 2026 | 14 March 2026 | [Github](https://meizhiyuan88666.github.io/meta-gpt/) |
 
 
 ## Model
