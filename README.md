@@ -19,6 +19,7 @@
 | 大连理工大学 <br> Dalian University of Technology | [**Towards Multimodal Metaphor Understanding: A Chinese Dataset and Model for Metaphor Mapping Identification**](https://dl.acm.org/doi/10.1145/3773989) | ACM Transactions on Asian and Low-Resource Language Information Processing | 10 December 2025 | [GitFront](https://gitfront.io/r/water/bsyhMJA64Lkh/CM3D/) |
 | 广西大学 <br> Guangxi University | ![Star](https://img.shields.io/github/stars/VILAN-Lab/Metaphor-CIME.svg?style=social&label=Star) <br> [**Multi-modal Metaphor Explanation: A Dataset and Benchmark**](https://link.springer.com/chapter/10.1007/978-981-95-5761-5_40) | PRCV 2025 | 12 January 2026 | [Github](https://github.com/VILAN-Lab/Metaphor-CIME) |
 | 广西大学 <br> Guangxi University | [**Revealing the Logic Behind the Black Box: A Benchmark Dataset for Explainable Multimodal Metaphor Detection**](https://ieeexplore.ieee.org/document/11424999) | IEEE Transactions on Multimedia | 2026 | [Github](https://github.com/VILAN-Lab/EMMet) |
+| 广西大学 <br> Guangxi University | [**Metaphorical Visual Question Answering: Benchmark and Knowledge-Enhanced Metaphor Understanding Method**](https://ieeexplore.ieee.org/document/11398850) | IEEE Transactions on Multimedia | 2026 | [Github](https://github.com/VILAN-Lab/METAVQA) |
 
 
 ## Model
