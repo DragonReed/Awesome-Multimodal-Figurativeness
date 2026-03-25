@@ -45,6 +45,8 @@
 | 大连理工大学 <br> Dalian University of Technology | [**M2Metaphor: leveraging multi-modal fusion and hierarchical contrastive learning for metaphoric insights**](https://doi.org/10.1016/j.eswa.2025.129107) | Expert Systems with Applications | 15 January 2026 | - |
 | 明尼苏达大学 <br> University of Minnesota | ![Star](https://img.shields.io/github/stars/scheshmi/CrossStyle-MMR.svg?style=social&label=Star) <br> [**Reasoning Beyond Literal: Cross-style Multimodal Reasoning for Figurative Language Understanding**](https://arxiv.org/pdf/2601.17197) | EACL 2026 Findings | 2026 | [Github](https://github.com/scheshmi/CrossStyle-MMR) |
 | 北京化工大学 <br> Beijing University of Chemical Technology | [**MAMMD: A multi-agent collaboration framework for multimodal metaphor detection**](https://www.sciencedirect.com/science/article/pii/S0925231226007782) | Neurocomputing | 7 June 2026 | - |
+| 中国科学院大学 <br> University of Chinese Academy of Sciences <br> 腾讯混元 <br> Tencent Hunyuan | [**Beyond Pixels: Visual Metaphor Transfer via Schema-Driven Agentic Reasoning**](https://arxiv.org/abs/2602.01335) | - | 1 Feb 2026 | - |
+
 
 ## Implicit Semantic Model
 |  Research Group  |  Title  |   Conference / Journal  |   Date   |   Code   |
