@@ -48,6 +48,7 @@
 | 明尼苏达大学 <br> University of Minnesota | ![Star](https://img.shields.io/github/stars/scheshmi/CrossStyle-MMR.svg?style=social&label=Star) <br> [**Reasoning Beyond Literal: Cross-style Multimodal Reasoning for Figurative Language Understanding**](https://arxiv.org/pdf/2601.17197) | EACL 2026 Findings | 2026 | [Github](https://github.com/scheshmi/CrossStyle-MMR) |
 | 北京化工大学 <br> Beijing University of Chemical Technology | [**MAMMD: A multi-agent collaboration framework for multimodal metaphor detection**](https://www.sciencedirect.com/science/article/pii/S0925231226007782) | Neurocomputing | 7 June 2026 | - |
 | 中国科学院大学 <br> University of Chinese Academy of Sciences <br> 腾讯混元 <br> Tencent Hunyuan | [**Beyond Pixels: Visual Metaphor Transfer via Schema-Driven Agentic Reasoning**](https://arxiv.org/abs/2602.01335) | - | 1 Feb 2026 | - |
+| 上海人工智能实验室 <br> Shanghai AI Laboratory <br> 华中科技大学 <br> Huazhong University of Science and Technology | ![Star](https://img.shields.io/github/stars/MING-ZCH/Let-Androids-Dream-of-Electric-Sheep.svg?style=social&label=Star) <br> [**Let Androids Dream of Electric Sheep: A Human-Inspired Image Implication Understanding and Reasoning Framework**](https://arxiv.org/pdf/2505.17019v2htt) <br> | - | 2026 | [Github](https://github.com/MING-ZCH/Let-Androids-Dream-of-Electric-Sheep) |
 
 
 ## Implicit Semantic Model
