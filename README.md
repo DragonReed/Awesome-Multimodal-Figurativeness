@@ -50,6 +50,7 @@
 | 北京化工大学 <br> Beijing University of Chemical Technology | [**MAMMD: A multi-agent collaboration framework for multimodal metaphor detection**](https://www.sciencedirect.com/science/article/pii/S0925231226007782) | Neurocomputing | 7 June 2026 | - |
 | 中国科学院大学 <br> University of Chinese Academy of Sciences <br> 腾讯混元 <br> Tencent Hunyuan | [**Beyond Pixels: Visual Metaphor Transfer via Schema-Driven Agentic Reasoning**](https://arxiv.org/abs/2602.01335) | - | 1 Feb 2026 | - |
 | 上海人工智能实验室 <br> Shanghai AI Laboratory <br> 华中科技大学 <br> Huazhong University of Science and Technology | ![Star](https://img.shields.io/github/stars/MING-ZCH/Let-Androids-Dream-of-Electric-Sheep.svg?style=social&label=Star) <br> [**Let Androids Dream of Electric Sheep: A Human-Inspired Image Implication Understanding and Reasoning Framework**](https://arxiv.org/pdf/2505.17019v2htt) <br> | - | 2026 | [Github](https://github.com/MING-ZCH/Let-Androids-Dream-of-Electric-Sheep) |
+| 广西大学 <br> Guangxi University <br> 广西人工智能学院 <br> Guangxi Academy of Artificial Intelligence | [**CMIG: Conceptual Metaphor Theory-Inspired Framework for Metaphorical Image Generation**](https://aclanthology.org/2026.findings-acl.1189/) | ACL 2026 Findings | July 2026 | - |
 
 
 ## Implicit Semantic Model
